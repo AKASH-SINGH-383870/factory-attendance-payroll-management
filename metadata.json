@@ -1,0 +1,10 @@
+{
+  "name": "Remix GatePass Pro - Factory Guard Attendance System",
+  "description": "Industrial guard-operated factory attendance and payroll management system with photo proof and strict role accountability.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
